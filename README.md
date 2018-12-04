@@ -6,4 +6,4 @@ _Files to look at:_
 This example demonstrates how the Print and Export functionality relies upon the [ChartOptionsPrint.PrintCrosshair](https://docs.devexpress.com/CoreLibraries/DevExpress.XtraCharts.Printing.ChartOptionsPrint.PrintCrosshair) property.
 The Ribbon control contains two items: the Show Print Preview button and the Print Crosshair check button.
 The Chart Control displays the Crosshair Cursor on mouse click.
-When the check button is checked, the Crosshair Cursor that the Chart Control currently shows will be printed: 
+When the check button is checked, the Crosshair Cursor that the Chart Control currently shows will be printed.
