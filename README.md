@@ -1,5 +1,5 @@
 _Files to look at:_
-* [Form1.cs](https://github.com/DevExpress-Examples/manage-crosshair-cursor-visibility-in-printed-chart/CS/PrintCrosshairSample/Form1.cs) (VB: [Form1.vb](https://github.com/DevExpress-Examples/manage-crosshair-cursor-visibility-in-printed-chart/VB/PrintCrosshairSample/Form1.vb))
+* [Form1.cs](CS/PrintCrosshairSample/Form1.cs) (VB: [Form1.vb](VB/PrintCrosshairSample/Form1.vb))
 
 # How to: Manage the Crosshair Cursor's Visibility in the Printed Chart
 
